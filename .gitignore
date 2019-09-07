@@ -2,3 +2,4 @@ logs/*
 snapshot/data/*
 *.log
 */*.png
+dags/__pycache__/*
